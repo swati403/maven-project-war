@@ -1,7 +1,7 @@
 Hello World!
 <br><br>
- <p>TIVIT 2018 - Bienvenidos </p>
+ <p>TIVIT 2018  </p>
 
-<p><b> Equipo  Integraci&oacute;n Continua</b><p>
+<p><b> </b><p>
 
  
