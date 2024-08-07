@@ -6,7 +6,7 @@
   <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
-  <version>RELEASES1.1</version>
+  <version>SNAPSHOT1.1</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
