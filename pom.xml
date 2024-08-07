@@ -30,6 +30,16 @@
       <name>Test Project Site</name>
       <url>file:///tmp/maven-project-site</url>
     </site>
+                   <repository>
+            <id>nexus</id>
+            <name>flipkart-releases</name>
+            <url>http://3.209.146.221:8081/repository/flipkart-releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>nexus</id>
+            <name>flipkar-snapshot</name>
+            <url>http://3.209.146.221:8081/repository/flipkar-snapshot/</url>
+        </snapshotRepository>
   </distributionManagement>
 
   <build>
